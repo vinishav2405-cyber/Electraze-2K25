@@ -175,7 +175,7 @@ Contributions, suggestions, and improvements are welcome.
 
 # 👨‍💻 Developer
 
-**Vinish A**
+**Vinisha V**
 
 GitHub: **@vinishav2405-cyber**
 
